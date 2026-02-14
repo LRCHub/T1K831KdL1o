@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "光線歌",
+  "base_artist": "Guiano",
+  "createdAt": "2026-02-14T14:25:32.541943Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光線歌",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_光線歌_Guiano.txt"
+    }
+  ]
+}
